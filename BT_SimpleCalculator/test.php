@@ -8,11 +8,17 @@
 </head>
 <body>
     <?php
-   include 'index.php';
-    function h($value = '123'){
-        echo "hello ". $value;
+    function div($a, $b){
+
     }
-    h('ba');
-    ?>
+
+        try {
+            return $a / $b;
+        }
+        cacth (Exception $e){
+            echo " error:" . $e->getMessage;
+        }
+    
+    ?> 
 </body>
-</html>
+</html> n
