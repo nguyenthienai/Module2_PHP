@@ -18,7 +18,7 @@
     <div id="content">
         <h1>Future Value Calculator</h1>
         
-        <form action="display_result.php" method="POST">
+        <form method="POST">
             <div id="data">
                 <label>Investment Amount:</label> <?php echo "$".$_POST["investment"] ?> <br/>
 
