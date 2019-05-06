@@ -24,7 +24,8 @@
         echo $_SESSION["result"];
         echo "</br><span>Index of array</span><form method='POST'>
         <input name='index' type='number' style='width:50px'>
-        </br><input type='submit' value='Find value'>";
+        </br>
+        <input type='submit' value='Find value'>";
     }
     if (isset($_POST["index"])) {
         $indexOfArray = $_POST["index"];
