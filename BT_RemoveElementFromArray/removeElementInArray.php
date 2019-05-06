@@ -11,6 +11,7 @@
             };
             array_pop($array);
             array_push($array,'');
+            echo "Element removed at: ". $index_del."<br/>";
             foreach($array as $key){
                 echo $key."<br/>";
             }
