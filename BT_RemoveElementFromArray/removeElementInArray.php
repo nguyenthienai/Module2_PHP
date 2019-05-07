@@ -3,7 +3,7 @@
         $input = $_POST['input'];
         try {
             if (find($input, $array) === null) {
-                throw new Exception();
+                throw new Exception("Không có giá trị này trong mảng");
             };
             $index_del = find($input, $array);
             for ($i = $index_del; $i < count($array) - 1; $i++) {
@@ -16,7 +16,7 @@
                 echo $key."<br/>";
             }
         } catch (Exception $e) {
-            echo "Không có giá trị này trong mảng";
+            echo "Error: " .$e->getMessage();
         }
     }
 ?>
