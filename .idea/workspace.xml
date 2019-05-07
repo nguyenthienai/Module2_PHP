@@ -10,20 +10,74 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/TH_Cacdoituonghinhhoc/index.php">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TH_ClassAnimalandInterfaceEdible/AbstractClass/animal.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="17">
+              <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TH_Cacdoituonghinhhoc/Shape.php">
+        <entry file="file://$PROJECT_DIR$/TH_ClassAnimalandInterfaceEdible/Animals/tiger.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TH_ClassAnimalandInterfaceEdible/AbtractAndInterfaceTest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="51" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TH_ClassAnimalandInterfaceEdible/AbstractClass/Fruits.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TH_ClassAnimalandInterfaceEdible/Fruits/Apple.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
-              <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+              <caret line="1" column="58" selection-start-line="1" selection-start-column="58" selection-end-line="1" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TH_ClassAnimalandInterfaceEdible/Fruits/Orange.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="62" selection-start-line="1" selection-start-column="62" selection-end-line="1" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TH_ClassAnimalandInterfaceEdible/InterfaceClass/Edible.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TH_ClassAnimalandInterfaceEdible/Animals/chicken.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -39,16 +93,14 @@
         <option value="$PROJECT_DIR$/zzzzz/index.php" />
         <option value="$PROJECT_DIR$/zzzzz/classUser.php" />
         <option value="$PROJECT_DIR$/TH_Cacdoituonghinhhoc/index.php" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/Module2_PHP.iml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/TH_ClassAnimalandInterfaceEdible/animal.php" />
+        <option value="$PROJECT_DIR$/TH_ClassAnimalandInterfaceEdible/Animals/tiger.php" />
+        <option value="$PROJECT_DIR$/TH_ClassAnimalandInterfaceEdible/InterfaceClass/Edible.php" />
+        <option value="$PROJECT_DIR$/TH_ClassAnimalandInterfaceEdible/Animals/chicken.php" />
+        <option value="$PROJECT_DIR$/TH_ClassAnimalandInterfaceEdible/AbstractClass/Fruits.php" />
+        <option value="$PROJECT_DIR$/TH_ClassAnimalandInterfaceEdible/Fruits/Apple.php" />
+        <option value="$PROJECT_DIR$/TH_ClassAnimalandInterfaceEdible/Fruits/Orange.php" />
+        <option value="$PROJECT_DIR$/TH_ClassAnimalandInterfaceEdible/AbtractAndInterfaceTest.php" />
       </list>
     </option>
   </component>
@@ -57,6 +109,9 @@
     <option name="y" value="20" />
     <option name="width" value="1346" />
     <option name="height" value="698" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -73,12 +128,25 @@
             <path>
               <item name="Module2_PHP" type="b2602c69:ProjectViewProjectNode" />
               <item name="Module2_PHP" type="462c0819:PsiDirectoryNode" />
-              <item name="TH_Cacdoituonghinhhoc" type="462c0819:PsiDirectoryNode" />
+              <item name="TH_ClassAnimalandInterfaceEdible" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Module2_PHP" type="b2602c69:ProjectViewProjectNode" />
               <item name="Module2_PHP" type="462c0819:PsiDirectoryNode" />
-              <item name="zzzzz" type="462c0819:PsiDirectoryNode" />
+              <item name="TH_ClassAnimalandInterfaceEdible" type="462c0819:PsiDirectoryNode" />
+              <item name="AbstractClass" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Module2_PHP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Module2_PHP" type="462c0819:PsiDirectoryNode" />
+              <item name="TH_ClassAnimalandInterfaceEdible" type="462c0819:PsiDirectoryNode" />
+              <item name="Animals" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Module2_PHP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Module2_PHP" type="462c0819:PsiDirectoryNode" />
+              <item name="TH_ClassAnimalandInterfaceEdible" type="462c0819:PsiDirectoryNode" />
+              <item name="Fruits" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -88,8 +156,14 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs\Module2_PHP\TH_ClassAnimalandInterfaceEdible\AbstractClass" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -133,12 +207,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1557202050602</updated>
-      <workItem from="1557202059285" duration="1036000" />
+      <workItem from="1557202059285" duration="7446000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1036000" />
+    <option name="totallyTimeSpent" value="7446000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -202,6 +276,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/TH_Cacdoituonghinhhoc/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/TH_Cacdoituonghinhhoc/Shape.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -209,10 +290,73 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TH_Cacdoituonghinhhoc/index.php">
+    <entry file="file://$PROJECT_DIR$/TH_Cacdoituonghinhhoc/Circle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="44" lean-forward="true" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TH_Cacdoituonghinhhoc/Cylinder.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TH_ClassAnimalandInterfaceEdible/Animals/tiger.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TH_ClassAnimalandInterfaceEdible/Animals/chicken.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TH_ClassAnimalandInterfaceEdible/AbstractClass/animal.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TH_ClassAnimalandInterfaceEdible/AbstractClass/Fruits.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TH_ClassAnimalandInterfaceEdible/InterfaceClass/Edible.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TH_ClassAnimalandInterfaceEdible/Fruits/Apple.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="58" selection-start-line="1" selection-start-column="58" selection-end-line="1" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TH_ClassAnimalandInterfaceEdible/Fruits/Orange.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="62" selection-start-line="1" selection-start-column="62" selection-end-line="1" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TH_ClassAnimalandInterfaceEdible/AbtractAndInterfaceTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="51" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
         </state>
       </provider>
     </entry>
