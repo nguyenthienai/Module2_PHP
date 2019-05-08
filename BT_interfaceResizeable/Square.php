@@ -7,4 +7,5 @@
         {
             parent::__construct($name, $width, $height);
         }
+
     }
