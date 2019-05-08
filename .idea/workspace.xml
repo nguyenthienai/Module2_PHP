@@ -3,10 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="2516472b-296f-432f-ae7a-51bdb4ec0b18" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BT_RemoveElementFromArray/removeElementInArray.php" beforeDir="false" afterPath="$PROJECT_DIR$/BT_RemoveElementFromArray/removeElementInArray.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zzzzz/classAdmin.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zzzzz/classUser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zzzzz/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BT_interfaceResizeable/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/BT_interfaceResizeable/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zzzzz/ggggg.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zzzzz/index.html" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,75 +16,77 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BT_interfaceResizeable/Resizeable.php">
+        <entry file="file://$PROJECT_DIR$/BT_LớpTriangle/TriangleClass.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-            </state>
+            <state relative-caret-position="-153" />
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BT_interfaceResizeable/Circle.php">
+        <entry file="file://$PROJECT_DIR$/BT_LớpPointvàMoveablePoint/class.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="45" lean-forward="true" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
-            </state>
+            <state relative-caret-position="-787" />
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BT_interfaceResizeable/index11.php">
+        <entry file="file://$PROJECT_DIR$/BT_LớpPointvàMoveablePoint/index.php">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zzzzz/index.html">
+        <entry file="file://$PROJECT_DIR$/php-shape-resizeable/Circle.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="7" lean-forward="true" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+            <state relative-caret-position="68">
+              <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BT_Tínhtổngcácsốởmộtcộtxácđịnh/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="28" column="50" lean-forward="true" selection-start-line="28" selection-start-column="50" selection-end-line="28" selection-end-column="50" />
-              <folding>
-                <element signature="n#style#0;n#input#0;n#td#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TH_listcustomer/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/php-shape-resizeable/index.php">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/zzzzz/ggggg.php">
+        <entry file="file://$PROJECT_DIR$/BT_interfaceResizeable/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+            <state relative-caret-position="284">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BT_interfaceResizeable/Rectangle.php">
+        <entry file="file://$PROJECT_DIR$/BT_LớpTriangle/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="340">
+              <caret line="20" column="71" lean-forward="true" selection-start-line="20" selection-start-column="71" selection-end-line="20" selection-end-column="71" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BT_LớpPoint2DvàlớpPoint3D/point2d.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="29">
+              <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BT_LớpPoint2DvàlớpPoint3D/point3d.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-39">
+              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BT_LớpPoint2DvàlớpPoint3D/index.php">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -121,16 +122,20 @@
         <option value="$PROJECT_DIR$/BT_interfaceResizeable/Rectangle.php" />
         <option value="$PROJECT_DIR$/BT_interfaceResizeable/Square.php" />
         <option value="$PROJECT_DIR$/BT_RemoveElementFromArray/removeElementInArray.php" />
-        <option value="$PROJECT_DIR$/BT_interfaceResizeable/index.php" />
         <option value="$PROJECT_DIR$/BT_interfaceResizeable/aa.php" />
         <option value="$PROJECT_DIR$/BT_interfaceResizeable/index.html" />
         <option value="$PROJECT_DIR$/zzzzz/index.php" />
         <option value="$PROJECT_DIR$/zzzzz/ggggg.php" />
         <option value="$PROJECT_DIR$/zzzzz/index.html" />
+        <option value="$PROJECT_DIR$/zzzzz/dd.php5" />
+        <option value="$PROJECT_DIR$/BT_interfaceResizeable/index.php" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="PhpTemplates">
+    <option name="NEW_PHP_FILE_LAST_EXTENSION" value="php5" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
@@ -160,12 +165,7 @@
             <path>
               <item name="Module2_PHP" type="b2602c69:ProjectViewProjectNode" />
               <item name="Module2_PHP" type="462c0819:PsiDirectoryNode" />
-              <item name="BT_Tínhtổngcácsốởmộtcộtxácđịnh" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Module2_PHP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Module2_PHP" type="462c0819:PsiDirectoryNode" />
-              <item name="zzzzz" type="462c0819:PsiDirectoryNode" />
+              <item name="php-shape-resizeable" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -227,12 +227,13 @@
       <option name="presentableId" value="Default" />
       <updated>1557202050602</updated>
       <workItem from="1557202059285" duration="16905000" />
-      <workItem from="1557238916195" duration="5004000" />
+      <workItem from="1557238916195" duration="6634000" />
+      <workItem from="1557278793863" duration="3773000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21909000" />
+    <option name="totallyTimeSpent" value="27312000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -244,10 +245,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24659607" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25037822" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -272,28 +273,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/zzzzz/sdbjhfgsj.php" />
-    <entry file="file://$PROJECT_DIR$/TH_Cacdoituonghinhhoc/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TH_Cacdoituonghinhhoc/Shape.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TH_Cacdoituonghinhhoc/Circle.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="44" lean-forward="true" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TH_Cacdoituonghinhhoc/Cylinder.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -410,22 +389,121 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BT_interfaceResizeable/Rectangle.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TH_Locdanhsachkhachhang/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-733" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BT_LớpTriangle/TriangleClass.php">
+    <entry file="file://$PROJECT_DIR$/zzzzz/classAdmin.php" />
+    <entry file="file://$PROJECT_DIR$/zzzzz/classUser.php" />
+    <entry file="file://$PROJECT_DIR$/zzzzz/index.php" />
+    <entry file="file://$PROJECT_DIR$/zzzzz/index.html" />
+    <entry file="file://$PROJECT_DIR$/BT_interfaceResizeable/index.html" />
+    <entry file="file://$PROJECT_DIR$/BT_interfaceResizeable/index11.php" />
+    <entry file="file://$PROJECT_DIR$/BT_interfaceResizeable/aa.php" />
+    <entry file="file://$PROJECT_DIR$/zzzzz/ggggg.php" />
+    <entry file="file://$PROJECT_DIR$/zzzzz/ffffff.php5" />
+    <entry file="file://$PROJECT_DIR$/zzzzz/dd.php5" />
+    <entry file="file://$PROJECT_DIR$/BT_interfaceResizeable/Resizeable.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-102" />
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BT_interfaceResizeable/Circle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BT_Tínhtổngcácsốởmộtcộtxácđịnh/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="50" selection-start-line="28" selection-start-column="50" selection-end-line="28" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TH_listcustomer/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BT_interfaceResizeable/Rectangle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BT_Hiểnthịthôngbáonếungườidùngnhậpvàochỉsốkhônghợplệ/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="33" column="60" selection-start-line="25" selection-start-column="61" selection-end-line="33" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php-shape-resizeable/Shape.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php-shape-resizeable/Rectangle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php-shape-resizeable/Resizeable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BT_LớpCirclevàlớpCylinder/cylinder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BT_LớpCirclevàlớpCylinder/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="7" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BT_LớpCirclevàlớpCylinder/circle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BT_LớpPoint2DvàlớpPoint3D/point2d.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BT_LớpPoint2DvàlớpPoint3D/point3d.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-39">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BT_LớpPoint2DvàlớpPoint3D/index.php">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/BT_LớpTriangle/index.php">
       <provider selected="true" editor-type-id="text-editor">
@@ -434,94 +512,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BT_interfaceResizeable/index.php">
+    <entry file="file://$PROJECT_DIR$/BT_LớpTriangle/TriangleClass.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
+        <state relative-caret-position="-153" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BT_interfaceResizeable/Circle.php">
+    <entry file="file://$PROJECT_DIR$/BT_LớpPointvàMoveablePoint/class.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="45" lean-forward="true" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
-        </state>
+        <state relative-caret-position="-787" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zzzzz/classAdmin.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zzzzz/classUser.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="24" column="26" lean-forward="true" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zzzzz/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BT_interfaceResizeable/Resizeable.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TH_listcustomer/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BT_Tínhtổngcácsốởmộtcộtxácđịnh/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="28" column="50" lean-forward="true" selection-start-line="28" selection-start-column="50" selection-end-line="28" selection-end-column="50" />
-          <folding>
-            <element signature="n#style#0;n#input#0;n#td#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zzzzz/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="7" lean-forward="true" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BT_interfaceResizeable/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BT_interfaceResizeable/index11.php">
+    <entry file="file://$PROJECT_DIR$/BT_LớpPointvàMoveablePoint/index.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/BT_interfaceResizeable/aa.php">
+    <entry file="file://$PROJECT_DIR$/php-shape-resizeable/Circle.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zzzzz/ggggg.php">
+    <entry file="file://$PROJECT_DIR$/php-shape-resizeable/index.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BT_interfaceResizeable/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        <state relative-caret-position="284">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
