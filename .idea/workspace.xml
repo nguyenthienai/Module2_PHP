@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2516472b-296f-432f-ae7a-51bdb4ec0b18" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2516472b-296f-432f-ae7a-51bdb4ec0b18" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,24 +13,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BT_interfaceResizeable/Rectangle.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BT_interfaceColorable/Circle.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BT_interfaceColorable/Rectangle.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -73,7 +53,7 @@
         <entry file="file://$PROJECT_DIR$/TH_Refactoring_tachbien/FizzBuzz.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
-              <caret line="25" column="42" lean-forward="true" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
+              <caret line="25" column="42" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -83,11 +63,29 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TH_Refactoring_tachbien/FizzBuzzTest.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="50" column="5" lean-forward="true" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+            <state relative-caret-position="386">
+              <caret line="52" column="31" selection-start-line="52" selection-start-column="31" selection-end-line="52" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TH_Refactoring_tachphuongthuc/src/Cylinder.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="148">
+              <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TH_Refactoring_tachphuongthuc/test/CylinderTest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-68">
+              <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -149,6 +147,7 @@
         <option value="$PROJECT_DIR$/BT_interfaceColorable/Square.php" />
         <option value="$PROJECT_DIR$/BT_interfaceColorable/index.php" />
         <option value="$PROJECT_DIR$/TH_Refactoring_tachbien/FizzBuzz.php" />
+        <option value="$PROJECT_DIR$/TH_Refactoring_tachphuongthuc/src/Cylinder.php" />
       </list>
     </option>
   </component>
@@ -177,7 +176,19 @@
             <path>
               <item name="Module2_PHP" type="b2602c69:ProjectViewProjectNode" />
               <item name="Module2_PHP" type="462c0819:PsiDirectoryNode" />
-              <item name="TH_Refactoring_tachbien" type="462c0819:PsiDirectoryNode" />
+              <item name="TH_Refactoring_tachphuongthuc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Module2_PHP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Module2_PHP" type="462c0819:PsiDirectoryNode" />
+              <item name="TH_Refactoring_tachphuongthuc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Module2_PHP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Module2_PHP" type="462c0819:PsiDirectoryNode" />
+              <item name="TH_Refactoring_tachphuongthuc" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -241,12 +252,12 @@
       <workItem from="1557202059285" duration="16905000" />
       <workItem from="1557238916195" duration="6634000" />
       <workItem from="1557278793863" duration="10043000" />
-      <workItem from="1557366720916" duration="185000" />
+      <workItem from="1557366720916" duration="1017000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33767000" />
+    <option name="totallyTimeSpent" value="34599000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -286,8 +297,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/zzzzz/index.php" />
-    <entry file="file://$PROJECT_DIR$/zzzzz/index.html" />
     <entry file="file://$PROJECT_DIR$/BT_interfaceResizeable/index.html" />
     <entry file="file://$PROJECT_DIR$/BT_interfaceResizeable/index11.php" />
     <entry file="file://$PROJECT_DIR$/BT_interfaceResizeable/aa.php" />
@@ -529,7 +538,7 @@
     <entry file="file://$PROJECT_DIR$/TH_Refactoring_tachbien/FizzBuzz.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
-          <caret line="25" column="42" lean-forward="true" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
+          <caret line="25" column="42" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
         </state>
       </provider>
     </entry>
@@ -538,8 +547,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TH_Refactoring_tachbien/FizzBuzzTest.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="50" column="5" lean-forward="true" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+        <state relative-caret-position="386">
+          <caret line="52" column="31" selection-start-line="52" selection-start-column="31" selection-end-line="52" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TH_Refactoring_tachphuongthuc/test/CylinderTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-68">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TH_Refactoring_tachphuongthuc/src/Cylinder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
         </state>
       </provider>
     </entry>
