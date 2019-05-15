@@ -38,6 +38,6 @@ if ($_POST['ok']){
             WHERE categoryCode = '$id'";
     $data = $conn->prepare($sql);
     $data->execute();
-    header("location: index.php");
+    header("location: Category.php");
 }
 }

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2516472b-296f-432f-ae7a-51bdb4ec0b18" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BT_Quanly_Thuvien/Edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/BT_Quanly_Thuvien/Edit.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +27,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BT_Quanly_Thuvien/header.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="335">
@@ -54,11 +54,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BT_Quanly_Thuvien/Edit.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="474">
-              <caret line="42" column="1" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
+              <caret line="42" column="1" lean-forward="true" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -156,16 +156,16 @@
         <option value="$PROJECT_DIR$/BT_Quanly_Thuvien/Delete.php" />
         <option value="$PROJECT_DIR$/BT_Quanly_Thuvien/db_connect.php" />
         <option value="$PROJECT_DIR$/BT_Quanly_Thuvien/Add.php" />
-        <option value="$PROJECT_DIR$/BT_Quanly_Thuvien/Edit.php" />
         <option value="$PROJECT_DIR$/BT_Quanly_Thuvien/Category.php" />
         <option value="$PROJECT_DIR$/BT_Quanly_Thuvien/Students.php" />
         <option value="$PROJECT_DIR$/BT_Quanly_Thuvien/index.php" />
         <option value="$PROJECT_DIR$/BT_Quanly_Thuvien/Books.php" />
         <option value="$PROJECT_DIR$/BT_Quanly_Thuvien/header.php" />
+        <option value="$PROJECT_DIR$/BT_Quanly_Thuvien/Edit.php" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
@@ -267,12 +267,12 @@
       <workItem from="1557759366055" duration="4138000" />
       <workItem from="1557796817812" duration="23458000" />
       <workItem from="1557839717681" duration="8370000" />
-      <workItem from="1557883343784" duration="20709000" />
+      <workItem from="1557883343784" duration="20966000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="127332000" />
+    <option name="totallyTimeSpent" value="127589000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -568,20 +568,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BT_Quanly_Thuvien/Add.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BT_Quanly_Thuvien/Edit.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="474">
-          <caret line="42" column="1" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BT_Quanly_Thuvien/ngoctrinh.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -629,6 +615,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="335">
           <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BT_Quanly_Thuvien/Add.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BT_Quanly_Thuvien/Edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="42" column="1" lean-forward="true" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
         </state>
       </provider>
     </entry>
